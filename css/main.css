@@ -1,0 +1,71 @@
+@charset "utf-8";
+body{
+	width:1247px;
+	font-size:16px;
+	color:#969;}
+h1{
+	text-align:center;
+	font-family:"方正姚体，黑体，宋体";
+	font-size:20px;
+	font-weight: bold;
+	color:#96C}/* CSS Document */
+h2{
+	font-family:"黑体";
+	font-size:16px;
+	font-weight:normal;
+	color:#099;}
+p{
+	line-height:2em;}
+.nav {
+	height:36px;
+	width:698px;
+	background-color:#9F0;
+	margin-left:160px;
+	margin-right:160px;
+	text-align:center;
+	font-size:18px;}
+.copyright{
+	width:300px;
+	height:30px;
+	margin-left:450px;
+	margin-right:450px;
+	margin-bottom:10px;}
+#p1{
+	width:0;
+	height:0;
+	border:10px solid transparent;
+	border-top-color:#999}
+#container{
+	width: 1000px;
+	margin-top: 0;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+    padding-right: 20px;
+	background: #FCC;
+	min-height:700px;}
+	/*
+	#na{
+		height:36px;
+		width:698px;
+		margin-left:160px;
+		background-color:#9F0;
+		text-align:center;
+		font-size:18px;
+	}
+	a{
+		display:block;
+		float:left;
+		margin-top:7px;
+		height:20px;
+		width:60px;
+		line-height:20px;
+		text-align:center;
+		font-size:18px;
+		text-align:center;
+		text-decoration:none;
+	}
+*/

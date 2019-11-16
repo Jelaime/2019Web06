@@ -1,0 +1,19 @@
+@charset "utf-8";
+a:link{
+	color:#000;
+	text-decoration:none;
+	}
+a:visited{
+	color:#666;
+	text-decoration:none;
+	}
+a:hover{
+	color:#96C;
+	text-decoration:none;
+	}
+a:active{
+	color:#99C;
+	font-weight:bold;
+	}
+	/* CSS Document */
+
